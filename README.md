@@ -1,5 +1,5 @@
 # Image Transformations
-This MVC application allows the user to apply different transformation techniques on a given picture and then save the resultant image. This program runs with two possible ways mainly script mode and interactive mode and both of these modes are self explanatory.
+This MVC application allows the user to apply different transformation techniques on a given picture and then save the resultant image. It also allows user to generate pattern of the particular so that it is easier to stitch that image on any other image. This program runs with two possible ways mainly script mode and interactive mode and both of these modes are self explanatory.
 
 # Features
 The features of this application are as follows:
@@ -56,9 +56,6 @@ m. Click on pixel after pattern is generated will allow user to either exchange 
 
 4. **Script Window**
 <img src="https://github.com/dishant9397/image-transformations/blob/master/Script%20Dialog.png" height="50%" width="50%"/>
-
-# UML
-Click [here](https://github.com/dishant9397/image-transformations/blob/master/UML%20Diagram.pdf) if you want to view the UML of this project.
 
 # Code of Conduct
 Code for this project is not attached because of Code of Conduct of Northeastern Univeristy. Still, if you want to view the code then please send me an email on [dishantpatel256@yahoo.in](dishantpatel256@yahoo.in) with your github username, email or full name with the reason so that I can provide you the access.
